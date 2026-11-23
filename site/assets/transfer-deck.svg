@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="title desc">
+  <title id="title">A sheet of glass on a ball transfer deck</title>
+  <desc id="desc">Illustrative isometric assembly, showing a transparent sheet on ball transfer units mounted in a steel deck. The unit balls allow the sheet to move in more than one direction.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eff4ef"/><stop offset=".56" stop-color="#e6efeb"/><stop offset="1" stop-color="#dce9e6"/></linearGradient>
+    <radialGradient id="ground"><stop stop-color="#527871" stop-opacity=".29"/><stop offset=".66" stop-color="#76968c" stop-opacity=".14"/><stop offset="1" stop-color="#758e85" stop-opacity="0"/></radialGradient>
+    <linearGradient id="metal" x1=".05" x2=".87" y1=".02" y2=".91"><stop stop-color="#f1f4ed"/><stop offset=".3" stop-color="#c4d5cf"/><stop offset=".53" stop-color="#e2e9df"/><stop offset=".73" stop-color="#b6cac4"/><stop offset="1" stop-color="#e0e9e0"/></linearGradient>
+    <linearGradient id="lip" x1="0" x2=".85" y1="1" y2="0"><stop stop-color="#698983"/><stop offset=".46" stop-color="#b1c6bc"/><stop offset="1" stop-color="#8da39a"/></linearGradient>
+    <linearGradient id="face" x1="0" x2=".8" y1="0" y2="1"><stop stop-color="#446556"/><stop offset=".09" stop-color="#95aca4"/><stop offset=".32" stop-color="#7c9690"/><stop offset=".7" stop-color="#50736a"/><stop offset="1" stop-color="#45675e"/></linearGradient>
+    <linearGradient id="end" x1="0" x2=".3" y1="0" y2="1"><stop stop-color="#637e73"/><stop offset=".45" stop-color="#56756a"/><stop offset="1" stop-color="#334f48"/></linearGradient>
+    <linearGradient id="rim" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fbfff3"/><stop offset=".28" stop-color="#d8e7dc"/><stop offset=".48" stop-color="#91aaa2"/><stop offset=".73" stop-color="#5b7872"/><stop offset="1" stop-color="#c4d4c9"/></linearGradient>
+    <radialGradient id="ball" cx=".30" cy=".17" r=".88"><stop stop-color="white"/><stop offset=".29" stop-color="#eaf3e9"/><stop offset=".5" stop-color="#b5cdc3"/><stop offset=".67" stop-color="#75978d"/><stop offset=".8" stop-color="#36594f"/><stop offset="1" stop-color="#99b1a5"/></radialGradient>
+    <linearGradient id="glass" x1=".13" y1="0" x2=".9" y2="1"><stop stop-color="#8dddd6" stop-opacity=".46"/><stop offset=".33" stop-color="#c4f5e7" stop-opacity=".52"/><stop offset=".59" stop-color="#e7fff7" stop-opacity=".28"/><stop offset="1" stop-color="#6bb6af" stop-opacity=".54"/></linearGradient>
+    <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 1.2h2.5m1.3 3.5h1.4" stroke="#587a6f" stroke-width=".47" opacity=".25"/></pattern>
+    <pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#71958a" opacity=".28"/></pattern>
+    <g id="unit"><ellipse rx="7.8" ry="3.85" cy=".76" cx=".44" fill="#45645a" opacity=".28"/><ellipse rx="7.4" ry="3.6" fill="url(#rim)" stroke="#627d72" stroke-width=".68"/><ellipse rx="5.65" ry="2.75" cx="-.12" cy="-.25" fill="#49685f"/><ellipse rx="5.15" ry="2.25" cy="-.35" fill="#c7d8cf"/><path d="M-4.7-.2a4.76 4.76 0 0 1 9.4 0c-1.5 2.42-7.62 2.43-9.4 0Z" fill="url(#ball)" stroke="#6d877e" stroke-width=".33"/><path d="M-2.7-3.14a3.4 3.4 0 0 1 2.25-1.1" fill="none" stroke="#fff" stroke-width=".55" stroke-linecap="round" opacity=".89"/><path d="M-6.75.86c2.3 2.15 7.87 3.08 11.21 1.51" fill="none" stroke="#eff6eb" opacity=".68" stroke-width=".55"/></g>
+    <g id="head"><ellipse rx="2.1" ry="1.12" fill="#526e61"/><ellipse cy="-.21" rx="1.67" ry=".78" fill="#dde8da"/><path d="m-.75-.38 1.22.46" stroke="#5e776a" stroke-width=".48"/></g>
+  </defs>
+  <rect width="600" height="340" fill="url(#paper)"/>
+  <rect width="600" height="340" fill="url(#dots)" opacity=".74"/>
+  <ellipse cx="299" cy="239" rx="257" ry="80" fill="url(#ground)"/>
+
+<path d="M241.44 39.50L248.44 39.50" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M244.94 36.00L244.94 43.00" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M579.87 163.91L586.87 163.91" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M583.37 160.41L583.37 167.41" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M19.68 179.64L26.68 179.64" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M23.18 176.14L23.18 183.14" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M358.11 304.05L365.11 304.05" stroke="#83a096" stroke-width="0.67" fill="none" />
+<path d="M361.61 300.55L361.61 307.55" stroke="#83a096" stroke-width="0.67" fill="none" />
+<ellipse cx="258.05" cy="101.55" rx="15" ry="4.7" fill="#547469" opacity=".15"/>
+<polygon points="254.45,90.40 273.32,97.33 259.78,105.89 240.92,98.95" fill="#57726a" stroke="#4c695d" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="257.56,83.12 246.48,79.05 246.48,97.55 257.56,101.62" fill="#779085" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="266.21,77.67 257.56,83.12 257.56,101.62 266.21,96.17" fill="#4e6b60" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<path d="M246.77 80.87L246.77 95.87" stroke="#a2b4a7" stroke-width="0.7" fill="none" />
+<ellipse cx="505.78" cy="191.90" rx="15" ry="4.7" fill="#547469" opacity=".15"/>
+<polygon points="502.19,180.75 521.06,187.68 507.52,196.24 488.65,189.30" fill="#57726a" stroke="#4c695d" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="505.30,173.48 494.21,169.40 494.21,187.90 505.30,191.98" fill="#779085" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="513.94,168.02 505.30,173.48 505.30,191.98 513.94,186.52" fill="#4e6b60" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<path d="M494.50 171.22L494.50 186.22" stroke="#a2b4a7" stroke-width="0.7" fill="none" />
+<ellipse cx="101.34" cy="201.55" rx="15" ry="4.7" fill="#547469" opacity=".15"/>
+<polygon points="97.75,190.40 116.61,197.34 103.08,205.89 84.21,198.95" fill="#57726a" stroke="#4c695d" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="100.86,183.13 89.77,179.05 89.77,197.55 100.86,201.63" fill="#779085" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="109.50,177.67 100.86,183.13 100.86,201.63 109.50,196.17" fill="#4e6b60" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<path d="M90.06 180.87L90.06 195.87" stroke="#a2b4a7" stroke-width="0.7" fill="none" />
+<ellipse cx="347.77" cy="292.14" rx="15" ry="4.7" fill="#547469" opacity=".15"/>
+<polygon points="344.18,280.99 363.04,287.93 349.51,296.48 330.64,289.55" fill="#57726a" stroke="#4c695d" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="347.29,273.72 336.20,269.64 336.20,288.14 347.29,292.22" fill="#779085" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="355.93,268.26 347.29,273.72 347.29,292.22 355.93,286.76" fill="#4e6b60" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<path d="M336.49 271.46L336.49 286.46" stroke="#a2b4a7" stroke-width="0.7" fill="none" />
+<polygon points="355.09,278.51 68.01,172.97 68.01,183.57 355.09,289.11" fill="url(#face)" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="538.69,162.48 355.09,278.51 355.09,289.11 538.69,173.08" fill="url(#end)" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<path d="M68.01 180.28L355.09 285.81" stroke="#c0cfc2" stroke-width="0.6" fill="none" />
+<path d="M538.69 169.78L355.09 285.81" stroke="#c0cfc2" stroke-width="0.6" fill="none" />
+<path d="M68.01 181.38L355.09 286.91" stroke="#45665a" stroke-width="0.6" fill="none" />
+<path d="M538.69 170.88L355.09 286.91" stroke="#45665a" stroke-width="0.6" fill="none" />
+<polygon points="355.55,274.55 63.80,167.30 63.80,172.90 355.55,280.15" fill="url(#lip)" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="542.75,156.25 355.55,274.55 355.55,280.15 542.75,161.85" fill="#6c8c7f" stroke="#35584e" stroke-width="0.78" stroke-linejoin="round"/>
+<polygon points="251.00,49.00 542.75,156.25 355.55,274.55 63.80,167.30" fill="url(#metal)" stroke="#59776c" stroke-width="1.05" stroke-linejoin="round"/>
+<polygon points="251.20,49.65 541.40,156.33 355.35,273.90 65.15,167.22" fill="url(#grain)" opacity=".58"/>
+<path d="M347.10 85.48L162.20 202.32" stroke="#8a9e90" stroke-width="0.92" fill="none" />
+<path d="M347.97 85.80L163.08 202.64" stroke="#e1ece1" stroke-width="0.62" fill="none" />
+<path d="M444.35 121.23L259.45 238.07" stroke="#8a9e90" stroke-width="0.92" fill="none" />
+<path d="M445.22 121.55L260.33 238.39" stroke="#e1ece1" stroke-width="0.62" fill="none" />
+<path d="M249.13 50.18L540.88 157.43" stroke="#f3f7eb" stroke-width="1.05" fill="none" />
+<path d="M253.53 49.93L66.33 168.23" stroke="#f3f7eb" stroke-width="1.05" fill="none" />
+<path d="M64.66 166.75L356.41 274.00" stroke="#f3f7eb" stroke-width="1.05" fill="none" />
+<path d="M541.39 155.75L354.19 274.05" stroke="#f3f7eb" stroke-width="1.05" fill="none" />
+<use x="252.85" y="53.86" xlink:href="#head"/>
+<use x="74.29" y="166.70" xlink:href="#head"/>
+<use x="339.21" y="85.60" xlink:href="#head"/>
+<use x="160.65" y="198.44" xlink:href="#head"/>
+<use x="349.33" y="89.32" xlink:href="#head"/>
+<use x="170.77" y="202.16" xlink:href="#head"/>
+<use x="436.46" y="121.35" xlink:href="#head"/>
+<use x="257.90" y="234.19" xlink:href="#head"/>
+<use x="446.58" y="125.07" xlink:href="#head"/>
+<use x="268.02" y="237.91" xlink:href="#head"/>
+<use x="532.54" y="156.67" xlink:href="#head"/>
+<use x="353.98" y="269.51" xlink:href="#head"/>
+<use x="206.61" y="81.91" xlink:href="#head"/>
+<use x="488.25" y="185.44" xlink:href="#head"/>
+<use x="161.83" y="110.21" xlink:href="#head"/>
+<use x="443.47" y="213.74" xlink:href="#head"/>
+<use x="117.19" y="138.42" xlink:href="#head"/>
+<use x="398.83" y="241.95" xlink:href="#head"/>
+<ellipse cx="77.93" cy="180.12" rx="1.5" ry="1.75" fill="#425e53" stroke="#b0c4b6" stroke-width=".47"/>
+<ellipse cx="125.97" cy="197.78" rx="1.5" ry="1.75" fill="#425e53" stroke="#b0c4b6" stroke-width=".47"/>
+<ellipse cx="169.73" cy="213.87" rx="1.5" ry="1.75" fill="#425e53" stroke="#b0c4b6" stroke-width=".47"/>
+<ellipse cx="239.75" cy="239.61" rx="1.5" ry="1.75" fill="#425e53" stroke="#b0c4b6" stroke-width=".47"/>
+<ellipse cx="272.43" cy="251.62" rx="1.5" ry="1.75" fill="#425e53" stroke="#b0c4b6" stroke-width=".47"/>
+<ellipse cx="344.78" cy="278.22" rx="1.5" ry="1.75" fill="#425e53" stroke="#b0c4b6" stroke-width=".47"/>
+<ellipse cx="526.02" cy="173.99" rx="1.25" ry="1.65" fill="#314f44" stroke="#90a99b" stroke-width=".48"/>
+<ellipse cx="482.82" cy="201.29" rx="1.25" ry="1.65" fill="#314f44" stroke="#90a99b" stroke-width=".48"/>
+<ellipse cx="438.18" cy="229.50" rx="1.25" ry="1.65" fill="#314f44" stroke="#90a99b" stroke-width=".48"/>
+<ellipse cx="394.98" cy="256.80" rx="1.25" ry="1.65" fill="#314f44" stroke="#90a99b" stroke-width=".48"/>
+<ellipse cx="364.02" cy="276.37" rx="1.25" ry="1.65" fill="#314f44" stroke="#90a99b" stroke-width=".48"/>
+<path d="M162.92 207.87L162.92 217.67" stroke="#46675a" stroke-width="0.92" fill="none" />
+<path d="M260.17 243.62L260.17 253.42" stroke="#46675a" stroke-width="0.92" fill="none" />
+<path d="M96.79 187.16L113.32 193.23" stroke="#4b695f" stroke-width="1.38" fill="none" stroke-linecap="round"/>
+<path d="M194.04 222.91L210.57 228.98" stroke="#4b695f" stroke-width="1.38" fill="none" stroke-linecap="round"/>
+<path d="M291.29 258.66L307.82 264.73" stroke="#4b695f" stroke-width="1.38" fill="none" stroke-linecap="round"/>
+<use x="256.77" y="64.80" xlink:href="#unit"/>
+<use x="288.08" y="76.31" xlink:href="#unit"/>
+<use x="230.42" y="81.45" xlink:href="#unit"/>
+<use x="319.40" y="87.82" xlink:href="#unit"/>
+<use x="261.73" y="92.96" xlink:href="#unit"/>
+<use x="204.07" y="98.10" xlink:href="#unit"/>
+<use x="350.71" y="99.33" xlink:href="#unit"/>
+<use x="293.05" y="104.47" xlink:href="#unit"/>
+<use x="235.38" y="109.61" xlink:href="#unit"/>
+<use x="382.22" y="110.91" xlink:href="#unit"/>
+<use x="177.71" y="114.75" xlink:href="#unit"/>
+<use x="324.36" y="115.98" xlink:href="#unit"/>
+<use x="266.69" y="121.12" xlink:href="#unit"/>
+<use x="413.54" y="122.42" xlink:href="#unit"/>
+<use x="209.03" y="126.27" xlink:href="#unit"/>
+<use x="355.87" y="127.57" xlink:href="#unit"/>
+<use x="151.36" y="131.41" xlink:href="#unit"/>
+<use x="298.01" y="132.64" xlink:href="#unit"/>
+<use x="444.85" y="133.94" xlink:href="#unit"/>
+<use x="240.34" y="137.78" xlink:href="#unit"/>
+<use x="387.19" y="139.08" xlink:href="#unit"/>
+<use x="182.68" y="142.92" xlink:href="#unit"/>
+<use x="329.52" y="144.22" xlink:href="#unit"/>
+<use x="476.17" y="145.45" xlink:href="#unit"/>
+<use x="125.01" y="148.06" xlink:href="#unit"/>
+<use x="271.66" y="149.29" xlink:href="#unit"/>
+<use x="418.50" y="150.59" xlink:href="#unit"/>
+<use x="213.99" y="154.43" xlink:href="#unit"/>
+<use x="360.83" y="155.73" xlink:href="#unit"/>
+<use x="507.68" y="157.03" xlink:href="#unit"/>
+<use x="156.32" y="159.57" xlink:href="#unit"/>
+<use x="303.17" y="160.87" xlink:href="#unit"/>
+<use x="449.81" y="162.10" xlink:href="#unit"/>
+<use x="98.66" y="164.71" xlink:href="#unit"/>
+<use x="245.31" y="165.94" xlink:href="#unit"/>
+<use x="392.15" y="167.24" xlink:href="#unit"/>
+<use x="187.64" y="171.08" xlink:href="#unit"/>
+<use x="334.48" y="172.38" xlink:href="#unit"/>
+<use x="481.32" y="173.68" xlink:href="#unit"/>
+<use x="129.97" y="176.22" xlink:href="#unit"/>
+<use x="276.81" y="177.52" xlink:href="#unit"/>
+<use x="423.46" y="178.75" xlink:href="#unit"/>
+<use x="218.95" y="182.59" xlink:href="#unit"/>
+<use x="365.80" y="183.89" xlink:href="#unit"/>
+<use x="161.29" y="187.74" xlink:href="#unit"/>
+<use x="308.13" y="189.04" xlink:href="#unit"/>
+<use x="454.97" y="190.34" xlink:href="#unit"/>
+<use x="250.46" y="194.18" xlink:href="#unit"/>
+<use x="397.11" y="195.41" xlink:href="#unit"/>
+<use x="192.60" y="199.25" xlink:href="#unit"/>
+<use x="339.44" y="200.55" xlink:href="#unit"/>
+<use x="281.78" y="205.69" xlink:href="#unit"/>
+<use x="428.62" y="206.99" xlink:href="#unit"/>
+<use x="224.11" y="210.83" xlink:href="#unit"/>
+<use x="370.76" y="212.06" xlink:href="#unit"/>
+<use x="313.09" y="217.20" xlink:href="#unit"/>
+<use x="255.42" y="222.34" xlink:href="#unit"/>
+<use x="402.27" y="223.64" xlink:href="#unit"/>
+<use x="344.41" y="228.71" xlink:href="#unit"/>
+<use x="286.74" y="233.85" xlink:href="#unit"/>
+<use x="375.92" y="240.29" xlink:href="#unit"/>
+<use x="318.05" y="245.37" xlink:href="#unit"/>
+<use x="349.56" y="256.95" xlink:href="#unit"/>
+<polygon points="551.07,130.25 422.91,211.24 422.91,213.54 551.07,132.55" fill="#44988b" stroke="#3e8d83" stroke-width="0.59" stroke-linejoin="round"/>
+<polygon points="193.78,127.01 422.91,211.24 422.91,213.54 193.78,129.31" fill="#70b4a5" stroke="#418e84" stroke-width="0.64" stroke-linejoin="round"/>
+<polygon points="321.94,46.02 551.07,130.25 422.91,211.24 193.78,127.01" fill="url(#glass)" stroke="#4e9a8c" stroke-width="0.87" stroke-linejoin="round"/>
+<polygon points="354.53,58.29 360.36,60.43 266.18,153.19 260.35,151.05" fill="#f5fff9" opacity="0.25"/>
+<polygon points="362.11,61.07 373.98,65.44 279.80,158.20 267.93,153.84" fill="#f5fff9" opacity="0.16"/>
+<polygon points="482.51,105.33 490.29,108.19 396.11,200.95 388.33,198.09" fill="#f5fff9" opacity="0.23"/>
+<polygon points="491.84,108.76 495.35,110.05 401.16,202.81 397.66,201.53" fill="#f5fff9" opacity="0.21"/>
+<path d="M321.94 46.02L551.07 130.25" stroke="#f4fff7" stroke-width="1.2" fill="none" />
+<path d="M321.94 46.02L193.78 127.01" stroke="#dcfff5" stroke-width="1.18" fill="none" />
+<path d="M193.78 127.01L422.91 211.24" stroke="#dcfff0" stroke-width="1.14" fill="none" />
+<path d="M302.70 167.45L370.78 192.47" stroke="#fbfff7" stroke-width="1.4" fill="none" />
+<path d="M551.07 130.25L422.91 211.24" stroke="#a7dfd1" stroke-width="0.85" fill="none" />
+</svg>
